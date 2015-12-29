@@ -1,0 +1,28 @@
+name: Spiritual AI
+favicon: null
+layout_spectrum: 0.3000372510869056
+typography_spectrum: 0.684650962240994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6310937432572246
+  lightness: 0.06661475566215813
+  saturation: 0.24209291324950755
+  rhythmicContrast: 0.5589990157168359
+purpose: []
